@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Device Toggle</string>
+    <string name="title">கேமரா / மைக் / ஸ்பீக்கர்</string>
+    <string name="admin_needed">முதலில் Admin அனுமதி கொடுங்கள் (கேமராவுக்கு தேவை)</string>
+    <string name="admin_btn">Admin அனுமதி கொடு</string>
+    <string name="admin_ok">Admin அனுமதி: கொடுக்கப்பட்டது ✔</string>
+    <string name="camera">கேமரா (முன் + பின் இரண்டும்)</string>
+    <string name="mic">மைக்</string>
+    <string name="speaker">ஸ்பீக்கர் (மீடியா சவுண்ட்)</string>
+    <string name="note">Switch ON = இயங்கும், OFF = நிறுத்தப்படும்</string>
+    <string name="admin_explain">கேமராவை நிறுத்த இந்த ஆப்புக்கு Device Admin அனுமதி தேவை</string>
+</resources>
